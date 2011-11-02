@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">You can turn on Voicify in Settings/Accesibility.\n
+        You can clear your voice commands with the delete button. \n
+        To reclaim focus for the media button, touch the reclaim focus button.</string>
+    <string name="app_name">Voicify</string>
+    <string name="service_description">Voicfy custom voice commands service</string>
+    <string name="voicify_activated">Voicify activated</string>
+    <string name="service_stopped_message">Voicify stopped</string>
+    <string name="started_recording_message">Voicify started recording</string>
+    <string name="saving_voice_command">Saving Voice Command</string>
+    <string name="please_type_command">Please type the voice command for this action:</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_output_area">Select Output Area</string>
+    <string name="long_press_and_drag_to_select">Touch and drag to select the area you want to hear</string>
+    <string name="failed_to_add_output_selection">Failed to add output selection</string>
+    <string name="demonstration_saved">Demonstration saved.</string>
+    <string name="saving_failed">Oops, saving failed.</string>
+    <string name="recording_error">Sorry, did not catch that step..</string>
+    <string name="still_saving">Still saving..</string>
+    <string name="still_playing">Still playing..</string>
+    <string name="listening_for_command">Voicify listening...</string>
+    <string name="no_speech_recognizer">No speech recognizer available.</string>
+    <string name="speech_recognition_failed">Speech recognition failed, please try again.</string>
+    <string name="not_initiated">Something went wrong, please restart Voicify in Settings.</string>
+    <string name="touch_for_settings">Touch for settings</string>
+    <string name="menu_delete">Delete All</string>
+    <string name="demonstration_set_cleared">Cleared all voice commands</string>
+    <string name="demonstration_ended_successfully">Demonstration ended successfully</string>
+    <string name="demonstration_ended_with_issues">Demonstration ended with possible issues</string>
+    <string name="reclaimed_button_focus">Reclaimed focus for the headset button</string>
+    <string name="menu_reclaim_focus">Reclaim Focus</string>
+</resources>
